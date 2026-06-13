@@ -4,6 +4,9 @@
 
 📍 Cologne, Germany &nbsp;·&nbsp; 🤖 AI Consulting &nbsp;·&nbsp; ⚙️ Automation &nbsp;·&nbsp; 🎯 Prompt Engineering
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-marinov2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanIvMa)
+
 ---
 
 ## What I Do
@@ -51,8 +54,8 @@ Building end-to-end automation pipelines with n8n, connecting AI models to real 
 ---
 
 <p align="center">
-  <em>Open to AI consulting opportunities, collaboration, and interesting conversations.</em><br>
-  <a href="https://github.com/IvanIvMa">
-    <img src="https://img.shields.io/badge/Let's_Connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <em>Open to AI consulting opportunities, collaboration, and interesting conversations.</em><br><br>
+  <a href="https://www.linkedin.com/in/ivan-marinov2">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
