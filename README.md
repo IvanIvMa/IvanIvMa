@@ -1,26 +1,58 @@
-# Hi, I'm Ivan 👋
+# Ivan Ma — AI Consultant
 
-📍 **Köln, Germany** | 🛠️ **Automating the boring stuff** | 📸 **Photo & Media enthusiast**
+**Bridging AI strategy and hands-on implementation for businesses ready to move beyond the hype.**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Automation](https://img.shields.io/badge/-Automation-FF6B6B?style=flat-square&logo=zapier&logoColor=white)
-
-## Projects
-
-- 📸 **[foto-sortieren](https://github.com/IvanIvMa/foto-sortieren)** — Sorts 27,000+ photos & videos by EXIF capture date into Year/Photos/Videos structure, with duplicate detection
-
-## What I'm Up To
-
-- 🗂️ **Organizing years of photos & videos** across multiple hard drives using Python automation
-- 🤖 **Building scripts** to automate repetitive file management tasks
-- 🔧 **Exploring tools** to make everyday tech tasks simpler and faster
-
-## Connect
-
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IvanIvMa)
+📍 Cologne, Germany &nbsp;·&nbsp; 🤖 AI Consulting &nbsp;·&nbsp; ⚙️ Automation &nbsp;·&nbsp; 🎯 Prompt Engineering
 
 ---
 
-> "Automate what you can, enjoy the rest."
+## What I Do
+
+I help organizations integrate AI into their workflows — from strategic roadmapping to production-ready implementations. My focus areas:
+
+**🎯 Prompt Engineering & LLM Integration**
+Designing reliable, production-grade prompts and multi-agent frameworks. Building custom Claude Skills, structured reasoning pipelines, and AI-powered decision tools.
+
+**📋 AI Strategy & Implementation**
+Developing actionable AI adoption roadmaps for mid-sized companies — covering use-case identification, risk analysis, budgeting, and change management.
+
+**⚙️ Workflow Automation**
+Building end-to-end automation pipelines with n8n, connecting AI models to real business processes — from CMS and CRM to internal tools.
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**claude-skills**](https://github.com/IvanIvMa/claude-skills) | Multi-agent deliberation frameworks for Claude — "The Council" (5 advisors + peer review) and "Der Berater" (rapid 3-perspective analysis). Adapted from Karpathy's LLM Council. | Prompt Engineering, Multi-Agent |
+| [**foto-sortieren**](https://github.com/IvanIvMa/foto-sortieren) | Automated photo & video organization: sorts 27,000+ files by EXIF date into structured folders with duplicate detection. | Python, Automation |
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+## Currently Working On
+
+- 🏗️ **Website modernization project** — AI-assisted content management with staging workflows
+- 🧠 **AI education materials** — Building interactive glossaries and visual explainers for ML/AI concepts
+- 🛠️ **Custom Claude Skills** — Multi-perspective reasoning frameworks for better AI-assisted decisions
+
+---
+
+<p align="center">
+  <em>Open to AI consulting opportunities, collaboration, and interesting conversations.</em><br>
+  <a href="https://github.com/IvanIvMa">
+    <img src="https://img.shields.io/badge/Let's_Connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
