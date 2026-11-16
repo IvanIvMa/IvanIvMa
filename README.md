@@ -47,9 +47,18 @@ End-to-end automation with n8n, Python and MCP, connecting AI models to real bus
 
 ---
 
-## Background
+## Industries & Selected Projects
 
-Senior Business Analyst and Requirements Engineer across Financial Services, Public Sector (Federal Statistical Office, IT.NRW, BWI), Automotive (Ford), Retail and Telecommunications.
+20+ years as Business Analyst, Requirements Engineer and Product Owner across six industries.
+
+| Industry | Selected projects |
+|:---------|:------------------|
+| 🧾 **Tax & Accounting Software** | Requirements engineering for the transformation of an on-premise application into a cloud solution, supported by a multi-agent AI system (current) |
+| 🏦 **Financial Services** | **WSD GmbH:** bidirectional XSLT interface for structured products, automated generation of regulatory KID/PRIIP documents<br>**FactSet / Interactive Data:** master data for structured products and OTC derivatives, data model for the MDG 2.0 platform; clients incl. Deutsche Bank, Commerzbank, ZKB, EUWAX and Wiener Börse |
+| 🏛️ **Public Sector** | **Federal Statistical Office (Destatis):** harmonized data model integrating the education statistics of all 16 federal states<br>**IT.NRW:** elicitation, evaluation and prioritization of ~2,500 requirements for replacing the state's Beihilfe administration software<br>**BWI GmbH (Bundeswehr IT):** requirements management for migrating IBM Lotus applications to SharePoint |
+| 🚗 **Automotive** | **Ford:** Product Owner of the REACT dealer portal for 15 European markets, GDPR specification for all EU markets, ETL and reporting with Qlikview, Tableau, Alteryx and KNIME |
+| 📡 **Telecommunications & Media** | **Deutsche Glasfaser:** vendor evaluation of HR systems<br>**Media Broadcast:** process analysis and selection of a project management tool<br>**Deutsche Telekom (via pso):** CRM processes, campaign reporting and rewards programs such as Happy Digits Regio and telekom-profis.de |
+| 🛒 **Retail & Logistics** | **REWE Digital:** introduction and customizing of the Logomate logistics software for automated inventory management |
 
 ![IREB CPRE](https://img.shields.io/badge/IREB_CPRE-Foundation_Level-1F3A93?style=flat-square)
 ![PSM I](https://img.shields.io/badge/PSM_I-Scrum.org-4A90A4?style=flat-square)
