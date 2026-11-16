@@ -31,7 +31,7 @@ End-to-end automation with n8n, Python and MCP, connecting AI models to real bus
 |:--------|:------------|:------|
 | [**claude-skills**](https://github.com/IvanIvMa/claude-skills) | Multi-agent deliberation frameworks for Claude: "The Council" (5 advisors + peer review) and "Der Berater" (rapid 3-perspective analysis). Adapted from Karpathy's LLM Council. | Prompt Engineering, Multi-Agent |
 | [**TradingView-Scanner**](https://github.com/IvanIvMa/TradingView-Scanner) | Automated US stock scanner: screens 5,700+ stocks for premarket gaps, checks technical entry signals every 30 min and tracks open positions for exits. All alerts via Telegram. | Python, Shell, launchd, Telegram |
-| [**ISOLINE.bg**](https://isoline.claw-host.eu) | Complete redesign of the website for a Bulgarian insulation materials distributor: bilingual (BG/EN), product catalog with 90+ products, self-hosted Directus CMS, inquiry form with email delivery and cookie-free analytics. | Directus, Docker, Caddy, Node.js |
+| [**ISOLINE.bg**](https://isoline.bg) | Complete redesign of the website for a Bulgarian insulation materials distributor: bilingual (BG/EN), product catalog with 90+ products, self-hosted Directus CMS, inquiry form with email delivery and cookie-free analytics. | Directus, Docker, Caddy, Node.js |
 | [**foto-sortieren**](https://github.com/IvanIvMa/foto-sortieren) | Automated photo & video organization: sorts 27,000+ files by EXIF date into structured folders with duplicate detection. | Python, Automation |
 
 **Also in use:** [tradingview-mcp](https://github.com/IvanIvMa/tradingview-mcp), a fork of [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp), for the optional live MCP mode of TradingView-Scanner.
@@ -40,7 +40,7 @@ End-to-end automation with n8n, Python and MCP, connecting AI models to real bus
 
 ## Currently Building
 
-- 🏗️ **[ISOLINE website relaunch](https://isoline.claw-host.eu)**: bilingual website with self-hosted Directus CMS for a Bulgarian insulation materials distributor.
+- 🏗️ **[ISOLINE website relaunch](https://isoline.bg)**: bilingual website with self-hosted Directus CMS for a Bulgarian insulation materials distributor.
 - 🤖 **Autonomous multi-agent trading system** for Bybit EU Spot (BTC, daily/4h). Architecture v1.3 completed after iterative peer review; now validating exchange capabilities against the testnet.
 - 📈 **Stock trading bot on Interactive Brokers**, reusing the same technology stack.
 - 🛠️ **Requirements Engineering agents** for multi-agent RE workflows.
